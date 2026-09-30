@@ -1,0 +1,6 @@
+{
+  "name": "Office Spatial Studio - 21x15 Pro Interior Planner",
+  "description": "Expert architectural interior design and 2D/3D circulation planner for 21x15 ft office layouts, featuring 6 staff workstations and 1 executive suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
